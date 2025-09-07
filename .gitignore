@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+
+# Environment variables
+.env
+
+# Arquivos gerados pelo projeto
+plate_classifier.keras
+plates.db
+
+# Pastas de dados e imagens
+Imagens/
+dataset/
+
+# Tipos de arquivos de imagem
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+
+# Configurações de IDEs
+.vscode/
+.idea/
